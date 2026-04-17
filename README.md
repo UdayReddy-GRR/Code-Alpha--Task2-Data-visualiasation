@@ -118,7 +118,7 @@ jupyter notebook
 
 ## 👨‍💻 Author
 
-Your Name
+Uday Reddy
 
 ---
 
